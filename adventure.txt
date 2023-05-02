@@ -6,3 +6,5 @@ Edit in branch
 
 creating a new branch: git branch new-branch
 switching to a new branch: git checkout new-branch
+see available branches: git branch
+merge branches: in the branch you want to merge to, run git merge branch-to-merge
