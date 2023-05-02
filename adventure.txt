@@ -3,3 +3,6 @@ Joan of Arc
 Abraham Lincoln
 Mark Sloan
 Edit in branch
+
+creating a new branch: git branch new-branch
+switching to a new branch: git checkout new-branch
